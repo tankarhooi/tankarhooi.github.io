@@ -2119,7 +2119,7 @@ a.video-play-btn {
   background-color: #f5f5f5;
   background-image: url(../img/1.jpg);
   background-size: cover;
-  padding: 110px 0px 115px;
+  padding: 80px 0px 85px 10px;
 }
 
 .shop-banner h3 {
