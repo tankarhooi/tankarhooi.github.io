@@ -405,6 +405,10 @@ p:last-child {
   color: #F28123;
 }
 
+.white-text {
+  color: #FFFFFF;
+}
+
 .blue-bg {
   background-color: #162133;
 }
